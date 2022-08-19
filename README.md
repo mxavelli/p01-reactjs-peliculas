@@ -32,7 +32,7 @@ Proyecto para agregar, editar, modificar y buscar peliculas.
 
 ## Expresiones de Gratitud 🎁
 
-* Invita una cerveza 🍺 o un café ☕ a Udemy, prof. Victor Robles y [freshenext]
+* Invita una cerveza 🍺 o un café ☕ a Udemy, prof. Victor Robles y [Freshenext]
 
 
 
