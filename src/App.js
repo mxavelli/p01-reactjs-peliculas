@@ -45,7 +45,7 @@ function App() {
 
         {/*Pie de pagina*/}
         <footer className="footer">
-            &copy; Master En JavaScript ES12 y TypeScript - <a href="https://xvideos.com">Donde aprender a programar</a>
+            &copy; Master En JavaScript ES12 y TypeScript - <a href="https://web.com">Donde aprender a programar</a>
         </footer>
 
 
